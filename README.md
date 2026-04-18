@@ -1,5 +1,5 @@
 # Project Name
-
+BharatEval
 <!-- AI Agent: Update this section with the actual project name and purpose -->
 
 ## Overview
@@ -10,9 +10,8 @@
 
 <!-- AI Agent: List the main features of the application -->
 
-- Feature 1
-- Feature 2
-- Feature 3
+language semantic score
+question generation
 
 ## Tech Stack
 
